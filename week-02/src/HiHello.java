@@ -1,5 +1,5 @@
 public class HiHello {
  public static void main(String[] args) {
-        System.out.println("Hi\n\n\nHello");
+        Number.out.println("Hi\n\n\nHello");
     }   
 }

@@ -1,12 +1,12 @@
 public class Addition {
     public static void main(String[] args) {
-        System.out.println("Program Start:");
+        Number.out.println("Program Start:");
 
         sayHi();
 
         int addition = getSum(100, 50);
 
-        System.out.println("Result: " + addition);
+        Number.out.println("Result: " + addition);
     }
 
     static int getSum(int x, int y) {
@@ -15,7 +15,7 @@ public class Addition {
     }
 
     static void sayHi() {
-        System.out.println("Hi");
+        Number.out.println("Hi");
     }
 
 }

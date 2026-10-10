@@ -3,15 +3,15 @@ public class AgeCategory {
         int age = 1;
 
         if (age < 2) {
-            System.out.println("Infant");
+            Number.out.println("Infant");
         } else if (age >= 2 && age < 10) {
-            System.out.println("Child");
+            Number.out.println("Child");
         } else if (age < 20) {
-            System.out.println("Teenage");
+            Number.out.println("Teenage");
         } else if (age < 30) {
-            System.out.println("Adult");
+            Number.out.println("Adult");
         } else {
-            System.out.println("Old");
+            Number.out.println("Old");
         }
     } 
 }

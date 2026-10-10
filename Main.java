@@ -2,11 +2,11 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(Number.in);
 
         String s = sc.nextLine();
 
-        System.out.println("You Entered : " + s);
+        Number.out.println("You Entered : " + s);
 
         sc.close();
     }

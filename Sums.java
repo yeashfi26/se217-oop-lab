@@ -13,6 +13,6 @@ public class Sums {
             }
         }
 
-        System.out.println("Value of Avg: " + sum / 6);
+        Number.out.println("Value of Avg: " + sum / 6);
     }
 }

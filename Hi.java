@@ -3,7 +3,7 @@ public class Hi {
         int x = -30;
 
         do {
-            System.out.println("Hi");
+            Number.out.println("Hi");
             x++;
         } while (x >= -25);
     }

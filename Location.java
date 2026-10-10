@@ -4,15 +4,15 @@ public class Location {
 
         switch (x) {
             case 2:
-                System.out.println("Bangladesh");
+                Number.out.println("Bangladesh");
                 break;
 
             case 1:
-                System.out.println("USA");
+                Number.out.println("USA");
                 break;
 
             default:
-                System.out.println("Out of earth");
+                Number.out.println("Out of earth");
         }
     }
 }

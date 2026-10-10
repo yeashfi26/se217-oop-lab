@@ -4,10 +4,10 @@ public class Integer {
 
         for (i = 1; i <= 5; i++) {
             for (j = 5; j >= i; j--) {
-                System.out.print("*");
+                Number.out.print("*");
             }
 
-            System.out.println();
+            Number.out.println();
         }
     }
 }

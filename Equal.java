@@ -4,9 +4,9 @@ public class Equal {
         String s2 = "Hifdagdas";
 
         if (s1 == s2) {
-            System.out.println("They are equal.");
+            Number.out.println("They are equal.");
         } else {
-            System.out.println("Not equal.");
+            Number.out.println("Not equal.");
         }
     }
 }

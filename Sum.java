@@ -8,7 +8,7 @@ public class Sum {
             i = i + 5;
         }
 
-        System.out.println("Sum is: " + sum); 
+        Number.out.println("Sum is: " + sum); 
     }
        
 }

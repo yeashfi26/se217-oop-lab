@@ -5,7 +5,7 @@ public class Length {
         String[] a = s.split("\\s+");
 
         for (int i = 0; i < a.length; i++) {
-            System.out.println(a[i]);
+            Number.out.println(a[i]);
         }
     }
 }
